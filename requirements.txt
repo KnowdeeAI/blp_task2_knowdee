@@ -1,0 +1,2 @@
+text2vec
+transformers==4.28.1
